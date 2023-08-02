@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "name": "Muskan Singh",
+      "username": "muskansingh3417",
+      "phonenumber": "9087563462",
+      "email": "muskan.singh7733@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "Shilpa ",
+      "username": "shilpa123",
+      "phonenumber": "9785644566",
+      "email": "shilpa@gmail.com",
+      "id": 2
+    }
+  ]
+}
